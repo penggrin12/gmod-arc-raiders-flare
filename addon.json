@@ -1,6 +1,8 @@
 {
     "title": "ARC Raiders - Raider Flare",
     "type": "effects",
-    "tags": ["fun", "roleplay", "realism"],
-    "ignore": []
+    "tags": ["fun", "roleplay"],
+    "ignore": [
+        "LICENSE", ".luarc.json", "icon.jpg", "icon.xcf"
+    ]
 }
