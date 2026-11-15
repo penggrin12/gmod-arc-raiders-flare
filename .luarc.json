@@ -1,0 +1,34 @@
+{
+    "diagnostics.globals": [
+        "AddCSLuaFile",
+        "ENT",
+        "CLIENT",
+        "SERVER",
+        "SOLID_VPHYSICS",
+        "MOVETYPE_VPHYSICS",
+        "SOLID_NONE",
+        "SOLID_BSP",
+        "SOLID_CUSTOM",
+        "bit",
+        "CONTENTS_DEBRIS",
+        "include",
+        "CurTime",
+        "FrameTime",
+        "Vector",
+        "LerpVector",
+        "vector_origin",
+        "EffectData",
+        "util",
+        "vector_up",
+        "ents",
+        "LocalPlayer",
+        "EmitSound",
+        "CHAN_AUTO",
+        "SNDLVL_180dB",
+        "hook",
+        "engine"
+    ],
+    "diagnostics.disable": [
+        "duplicate-set-field"
+    ]
+}
