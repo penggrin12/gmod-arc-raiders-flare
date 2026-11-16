@@ -3,6 +3,8 @@
     "type": "effects",
     "tags": ["fun", "roleplay"],
     "ignore": [
-        "LICENSE", ".luarc.json", "icon.jpg", "icon.xcf"
+        "LICENSE", ".luarc.json",
+        "icon.jpg", "icon.xcf",
+        "banner.jpg", "banner.xcf"
     ]
 }
